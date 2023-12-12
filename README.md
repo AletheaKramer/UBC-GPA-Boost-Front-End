@@ -1,4 +1,5 @@
-[<img width="1440" alt="Screen Shot 2023-12-11 at 9 13 14 PM" src="https://github.com/AletheaKramer/UBC-GPA-Boost-Front-End/assets/97807473/353ed439-d701-4619-ac9f-80fe008be466">](https://youtu.be/p1tWGnVd-nw)
+[<img width="1439" alt="Screen Shot 2023-12-11 at 9 16 42 PM" src="https://github.com/AletheaKramer/UBC-GPA-Boost-Front-End/assets/97807473/ce1766a9-b8d8-4a42-956a-a47ffc737adc">](https://youtu.be/p1tWGnVd-nw)
+
 
 # The Front End of a full-stack application
 
