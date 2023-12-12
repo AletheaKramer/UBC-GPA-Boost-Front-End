@@ -1,7 +1,7 @@
 [<img width="1439" alt="Screen Shot 2023-12-11 at 9 16 42 PM" src="https://github.com/AletheaKramer/UBC-GPA-Boost-Front-End/assets/97807473/ce1766a9-b8d8-4a42-956a-a47ffc737adc">](https://youtu.be/p1tWGnVd-nw)
 
 
-# The Front End of a full-stack application
+# The Front End of a Full-Stack Web Application
 
 This is the front end of a private full stack web application that manipulates UBC course data to enable UBC students to search for courses to boost their GPA. 
 
