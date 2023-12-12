@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+[<img width="1440" alt="Screen Shot 2023-12-11 at 9 13 14 PM" src="https://github.com/AletheaKramer/UBC-GPA-Boost-Front-End/assets/97807473/353ed439-d701-4619-ac9f-80fe008be466">](https://youtu.be/p1tWGnVd-nw)
+
+# The Front End of a full-stack application
+
+This is the front end of a private full stack web application that manipulates UBC course data to enable UBC students to search for courses to boost their GPA. 
+
+[Watch the full project demo here](https://youtu.be/p1tWGnVd-nw)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
